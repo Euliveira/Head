@@ -1,0 +1,26 @@
+body {
+        
+        background: url('imagem/home.jpg');
+        background-size: 63.1%;
+        background-position: center;
+        justify-content: direita;
+        align-items: esquerda;
+        height: 80vh;
+        display: flex;
+        margin: 0;
+        color: black;
+        
+}
+
+.red-button {
+        display: inline-block;
+        padding: 10px 20px;
+        font-size: 16px;
+        background-color: #00ff00;
+        color: aliceblue;
+        border: 2px solid #c0392b
+    }
+    
+    .red-button {
+        background-color: black;
+    }
